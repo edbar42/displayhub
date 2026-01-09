@@ -5,3 +5,9 @@
 		var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif,
 		"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+
+body {
+	background: linear-gradient(135deg, #0a0604 0%, #1a0f0a 50%, #2d1810 100%);
+	min-height: 100vh;
+	color: #e8e8e8;
+}

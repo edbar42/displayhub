@@ -1,3 +1,6 @@
+// Forces dynamic loading on NextJS
+export const dynamic = "force-dynamic";
+
 const mocks = [
 	"https://bgub5o9kv5.ufs.sh/f/DOPeaVgNRp2ZLRVH1SPw9F6HafuEp2oTrDvcOXKdNYSh5n4A",
 	"https://bgub5o9kv5.ufs.sh/f/DOPeaVgNRp2Z5v36EtWyS8MhH7ZujQIdgzC42cAO9P3pqsvi",
